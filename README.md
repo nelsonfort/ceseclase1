@@ -1,1 +1,6 @@
-clase 1 - control de versiones
+Clase 1 
+
+
+Control de versiones
+
+GIT
